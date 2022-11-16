@@ -2,5 +2,5 @@
 Aplicación creada en React Usando Vite aplicando distintas tecnologias y dependencias
 
 ``
-LINK https://anthony-rodriguez12.github.io/Vite-Rick-and-Morty/
-``
+LINK`` https://anthony-rodriguez12.github.io/Vite-Rick-and-Morty/
+
